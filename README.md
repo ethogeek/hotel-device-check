@@ -2,6 +2,7 @@
 
 A FastAPI app to manage network device models, track end-of-life (EOL) and end-of-sale (EOS) data, and handle device metadata with role-based permissions, SSO support, and CSV/image upload.
 
+
 ## Features
 
 - 🔐 OAuth2 + SSO (Google, Microsoft)
