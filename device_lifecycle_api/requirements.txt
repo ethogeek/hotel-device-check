@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pydantic
-jose[cryptography]
-passlib[bcrypt]
-python-dotenv
-authlib
-boto3
